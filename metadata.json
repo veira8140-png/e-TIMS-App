@@ -1,5 +1,5 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Veira POS",
+  "description": "A production-ready, multi-tenant Point of Sale system with real-time analytics, inventory management, and staff tracking.",
   "requestFramePermissions": []
 }
